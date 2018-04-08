@@ -1,2 +1,9 @@
-# iOS-Interview-Questions
-积累一些iOS面试题
+1.栈和堆的区别。
+
+````
+栈：
+堆：
+````
+
+
+
